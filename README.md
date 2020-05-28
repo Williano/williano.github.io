@@ -18,8 +18,6 @@ My portfolio webiste with work and volunteer experience, projects, education his
 
 ## Screenshots
 
-   Feed Screen           
- :-------------------------:
 ![Screenshot_2020-05-27 William Kpabitey Kwabla - Sofware Engineer](https://user-images.githubusercontent.com/19711677/83099417-eceea480-a072-11ea-96a6-0dc577eabfe2.png)
   
 ## Technologies
@@ -35,42 +33,39 @@ To run this app, you will need to follow these 3 steps:
 ##### 1. Requirements 
   - a Laptop
 
-  - Xcode or Android Studio 
+  - Text Editor [VS code]
 
   - Git installed on your Laptop. 
+  
+  - Web Browser [Chrome, Firefox]
 
 
-##### 2. Install Dart and Flutter
-  - [Dart](https://dart.dev/get-dart)
-
-  - [Flutter](https://flutter.dev/docs/get-started/install)
-
-
-##### 3. Set up and run the app from your command line:
+##### 3. Set up and run the website from your browser:
   ```
   # Clone this repository
-  $ git clone https://github.com/Williano/Instagram-UI.git
+  $ git clone https://github.com/Williano/williano.github.io.git
 
-  # Go into the repository
-  $ cd Instagram-UI
+  # Go into the directory 
 
-  # Install all dependences 
-  $ flutter pub get
-
-  # Run App
-  $ flutter run
+  # Double click index.html file
+ 
   ```
 
 ## Features
-* About
-* User Profile Screen
-* Activitiy Screen
+* About Me
+* Work Experience
+* Open Source Projects
+* Education
+* Skills & Tools
+* Volunteer Experience
+* Conferences
+* Hobbies & Interests
 
 ## Status
 Project is: _done_
 
 ## Inspiration
-This project is to improve my online presence.
+This project was to improve my online presence.
 
 
 ## Contact
