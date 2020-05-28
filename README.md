@@ -72,7 +72,7 @@ This project was to improve my online presence.
 Created by [Williano](https://williano.github.io/) - feel free to contact me!
 
 ## License
->You can check out the full license [here](https://github.com/Williano/Instagram-UI/blob/master/LICENSE)
+>You can check out the full license [here](https://github.com/Williano/williano.github.io/blob/master/LICENSE.md)
 
 This project is licensed under the terms of the **MIT** license.
 
