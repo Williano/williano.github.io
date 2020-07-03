@@ -8,8 +8,8 @@ My portfolio webiste with all the relevant information about me.
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Setup](#setup)
 * [Features](#features)
+* [Setup](#setup)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -28,6 +28,17 @@ My portfolio webiste with work and volunteer experience, projects, education his
 * CSS3
 * JavaScript
 * Font Awesome 5
+
+
+## Features
+* About Me
+* Work Experience
+* Open Source Projects
+* Education
+* Skills & Tools
+* Volunteer Experience
+* Conferences
+* Hobbies & Interests
 
 
 ## Setup
@@ -53,16 +64,6 @@ To run this app, you will need to follow these 3 steps:
   # Double click index.html file
  
   ```
-
-## Features
-* About Me
-* Work Experience
-* Open Source Projects
-* Education
-* Skills & Tools
-* Volunteer Experience
-* Conferences
-* Hobbies & Interests
 
 ## Status
 Project is: _done_
