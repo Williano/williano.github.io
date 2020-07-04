@@ -7,8 +7,8 @@ My portfolio webiste with all the relevant information about me.
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Technologies](#technologies)
 * [Features](#features)
+* [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
 * [Inspiration](#inspiration)
@@ -23,12 +23,6 @@ My portfolio webiste with work and volunteer experience, projects, education his
 
 ![Screenshot_2020-05-27 William Kpabitey Kwabla - Sofware Engineer](https://user-images.githubusercontent.com/19711677/83099417-eceea480-a072-11ea-96a6-0dc577eabfe2.png)
   
-## Technologies
-* HTML5
-* CSS3
-* JavaScript
-* Font Awesome 5
-
 
 ## Features
 * About Me
@@ -39,6 +33,12 @@ My portfolio webiste with work and volunteer experience, projects, education his
 * Volunteer Experience
 * Conferences
 * Hobbies & Interests
+
+## Technologies
+* HTML5
+* CSS3
+* JavaScript
+* Font Awesome 5
 
 
 ## Setup
