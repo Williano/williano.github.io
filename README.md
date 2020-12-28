@@ -41,6 +41,7 @@ My portfolio webiste with work and volunteer experience, projects, education his
 * HTML5
 * CSS3
 * JavaScript
+* JQuery 
 * Font Awesome 5
 
 
