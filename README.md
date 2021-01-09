@@ -4,7 +4,6 @@ My portfolio webiste with all the relevant information about me.
 
 [Demo](https://williano.github.io/)
 
-
 ## Table of contents
 
 * [General info](#general-info)
