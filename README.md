@@ -1,15 +1,17 @@
 # williano.github.io
 My portfolio webiste with all the relevant information about me.
 
+
 [Demo](https://williano.github.io/)
 
 
 ## Table of contents
+
 * [General info](#general-info)
 * [Screenshots](#screenshots)
+* [Features](#features)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -23,10 +25,22 @@ My portfolio webiste with work and volunteer experience, projects, education his
 
 ![Screenshot_2020-05-27 William Kpabitey Kwabla - Sofware Engineer](https://user-images.githubusercontent.com/19711677/83099417-eceea480-a072-11ea-96a6-0dc577eabfe2.png)
   
+## Features
+
+* About Me
+* Work Experience
+* Open Source Projects
+* Education
+* Skills & Tools
+* Volunteer Experience
+* Conferences
+* Hobbies & Interests
+
 ## Technologies
 * HTML5
 * CSS3
 * JavaScript
+* JQuery 
 * Font Awesome 5
 
 
@@ -54,16 +68,6 @@ To run this app, you will need to follow these 3 steps:
  
   ```
 
-## Features
-* About Me
-* Work Experience
-* Open Source Projects
-* Education
-* Skills & Tools
-* Volunteer Experience
-* Conferences
-* Hobbies & Interests
-
 ## Status
 Project is: _done_
 
@@ -86,3 +90,4 @@ This project is licensed under the terms of the **MIT** license.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
+
