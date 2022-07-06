@@ -27,7 +27,7 @@ h6 {
 }
 
 a {
-  color: #3aaa64;
+  color: #2563eb;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -37,7 +37,7 @@ a {
 
 a:hover {
   text-decoration: underline;
-  color: #2d844e;
+  color: #1e3a8a;
 }
 
 a:focus {
@@ -75,8 +75,8 @@ a.btn:focus {
 
 a.btn-cta-primary,
 .btn-cta-primary {
-  background: #54ba4e;
-  border: 1px solid #54ba4e;
+  background: #1e3a8a;
+  border: 1px solid #1e3a8a;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
@@ -84,8 +84,8 @@ a.btn-cta-primary,
 
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
-  background: #49ac43;
-  border: 1px solid #49ac43;
+  background: #1e3a8a;
+  border: 1px solid #1e3a8a;
   color: #fff;
 }
 
@@ -113,7 +113,7 @@ a.btn-cta-secondary:not(:disabled):not(.disabled):active:focus,
 }
 
 .badge-theme {
-  background: #3aaa64;
+  background: #1e3a8a;
   font-size: 12px;
   color: #fff;
   border-radius: 2px;
@@ -272,7 +272,7 @@ a.dotted-link:hover {
 }
 
 .latest .has-ribbon .text {
-  background: #3aaa64;
+  background: #1e3a8a;
   color: #fff;
 }
 
@@ -451,7 +451,7 @@ a.dotted-link:hover {
 
 .skills .skillset .level-bar-inner {
   height: 15px;
-  background: #66cb8c;
+  background: #1e3a8a;
 }
 
 .skills .svg-inline--fa {
@@ -472,7 +472,7 @@ a.dotted-link:hover {
 .testimonials .item .quote {
   color: #666;
   font-size: 16px;
-  border-left: 5px solid #9fdeb7;
+  border-left: 5px solid #1e3a8a;
   padding: 5px 15px;
   margin-bottom: 15px;
 }
@@ -546,7 +546,7 @@ a.dotted-link:hover {
 }
 
 .languages .item .svg-inline--fa {
-  color: #79d19a;
+  color: #1e3a8a;
 }
 
 /* Blog Section */
@@ -665,8 +665,8 @@ a.dotted-link:hover {
 }
 
 .dark-mode-switch .form-check-input:checked {
-  background-color: #54ba4e;
-  border-color: #54ba4e;
+  background-color: #1e3a8a;
+  border-color: #1e3a8a;
 }
 
 .dark-mode-switch .form-check-input:focus {
@@ -681,7 +681,7 @@ body[data-theme="dark"] {
 }
 
 body[data-theme="dark"] a:hover {
-  color: #53c47d;
+  color: #2563eb;
 }
 
 body[data-theme="dark"] a.btn:hover {
@@ -689,7 +689,7 @@ body[data-theme="dark"] a.btn:hover {
 }
 
 body[data-theme="dark"] .dark-mode-switch .form-check-input:focus {
-  border-color: #54ba4e;
+  border-color: #1e3a8a;
 }
 
 body[data-theme="dark"] .header {
@@ -778,11 +778,11 @@ body[data-theme="dark"] .gha-footer,
 body[data-theme="dark"] .gha-feed {
   background: #17191c;
   border-color: rgba(255, 255, 255, 0.1);
-  color: #3aaa64;
+  color: #1e3a8a;
 }
 
 body[data-theme="dark"] .gha-feed a {
-  color: #3aaa64;
+  color: #1e3a8a;
 }
 
 body[data-theme="dark"] .gha-header > .gha-github-icon,
